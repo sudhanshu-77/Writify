@@ -1,6 +1,6 @@
 {
     "rewrites": [
-      { "source": "/api/(.*)", "destination": "https://review01-backend.onrender.com/api/$1" },
+      { "source": "/api/(.*)", "destination": "https://writify-blogging-app.onrender.com/api/$1" },
       { "source": "/(.*)", "destination": "/" }
     ]
   }
