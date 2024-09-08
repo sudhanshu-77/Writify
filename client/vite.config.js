@@ -8,7 +8,7 @@ export default defineConfig({
     proxy: {
       '/api': 
       {
-        target: 'https://review01-backend.onrender.com',
+        target: 'https://writify-blogging-app.onrender.com',
         changeOrigin: true,
         secure: true,
       },
