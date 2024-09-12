@@ -1,5 +1,10 @@
+<h1 align="center">Writify - Feature-Rich Blogging Platform</h1>
+<div align="center">
+<a href="https://github.com/sudhanshu-77/Writify/issues"><img src="https://img.shields.io/github/issues/sudhanshu-77/Writify"></a>
+<a><img src="https://img.shields.io/github/forks/sudhanshu-77/Writify"></a>
+<a><img src="https://img.shields.io/github/stars/sudhanshu-77/Writify"></a>
+</div>
 
-# Writify: A Blogging App
 
 ## <a align="left"> Live Website </a> [Link](https://writify-v1.onrender.com/).
 
